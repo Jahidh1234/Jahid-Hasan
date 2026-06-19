@@ -1,0 +1,6 @@
+{
+  "name": "Task Master BD",
+  "description": "একটি আধুনিক ও প্রিমিয়াম বাংলা টাস্ক ম্যানেজার, ক্যালেন্ডার এবং দৈনন্দিন হ্যাবিট ট্র্যাকার অ্যাপ্লিকেশান।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

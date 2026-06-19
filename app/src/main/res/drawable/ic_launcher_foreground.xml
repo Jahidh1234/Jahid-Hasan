@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center of canvas: X=54, Y=54. Safe area: 66/2 = 33dp radius -->
+    <!-- Checklist Shield/Board in gold/neon accent -->
+    <path
+        android:fillColor="#E2F0CB"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M38,32h32c3.3,0 6,2.7 6,6v31c0,3.3 -2.7,6 -6,6H38c-3.3,0 -6,-2.7 -6,-6V38c0,-3.3 2.7,-6 6,-6z" />
+    <!-- Checklist lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#5B93E8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,43h18" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#5B93E8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,53h14" />
+    <!-- Bold Golden tick checkmark overlay -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFC107"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M56,58 l6,7 l14,-14" />
+</vector>
